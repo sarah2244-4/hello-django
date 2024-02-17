@@ -31,7 +31,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://git.heroku.com/sarr-django-todo-app.git']
+ALLOWED_HOSTS = ['sarr-django-todo-app-97a99e9fafaf.herokuapp.com']
 
 
 # Application definition
